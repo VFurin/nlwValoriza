@@ -1,7 +1,10 @@
 # dependencies
 node_modules
 
-#project
+# project
 package.json
 tsconfig.json
 yarn.lock
+
+# dabase
+ormconfig.json
