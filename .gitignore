@@ -8,3 +8,4 @@ yarn.lock
 
 # dabase
 ormconfig.json
+database.sqlite
